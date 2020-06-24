@@ -1,4 +1,4 @@
-# Monitor your entire Kubernetes cluster with Ops_brew
+# Pull logs from your Kubernetes cluster with Ops_brew
 
 We are using filebeat to run as Daemonset in your K8s cluster. 
 
